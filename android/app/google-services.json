@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "997725014647",
+    "firebase_url": "https://sismoapp-3d3d3-default-rtdb.firebaseio.com",
+    "project_id": "sismoapp-3d3d3",
+    "storage_bucket": "sismoapp-3d3d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997725014647:android:31588f618ce4d790f29472",
+        "android_client_info": {
+          "package_name": "com.example.sismoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBIfO0K-pVDzwqZNvr7WiSM9xHrCwOeIc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

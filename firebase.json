@@ -1,0 +1,36 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "sismoapp-3d3d3",
+          "appId": "1:997725014647:android:31588f618ce4d790f29472",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "sismoapp-3d3d3",
+          "configurations": {
+            "android": "1:997725014647:android:31588f618ce4d790f29472",
+            "ios": "1:997725014647:ios:f9e2de58df34f3ecf29472"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
